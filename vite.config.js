@@ -9,7 +9,7 @@ if (!process.env.APP_URL) {
 }
 
 export default defineConfig({
-  base: '/app/themes/sage/public/build/',
+  base: '/wp-content/themes/positivity-mobility-theme/public/build/',
 
   // Adjust Vites dev server to work with DDEV
   // https://vitejs.dev/config/server-options.html
